@@ -1,0 +1,32 @@
+#pagination{
+    
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding: 5px 9px;
+        text-decoration: none;
+    }
+
+
+.page-item{
+        color: #2196F3;
+        text-decoration: none;
+        border: 1px solid #ccc;
+        margin-right: 5px;
+        border-radius: 3px;
+    }
+    
+    
+.page-item:hover{
+                    
+        background: #2196F3;
+        color: #fff;
+        border: 1px solid #ccc;
+        text-decoration: none;
+        cursor: pointer;
+    }
+.current-page{
+    background: #2196F3;
+    color: white;
+    border-radius: 3px;
+}

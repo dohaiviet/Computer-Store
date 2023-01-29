@@ -1,0 +1,36 @@
+#phantrang{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.page-item{
+    border: 1px solid #ccc;
+    padding: 5px 9px;
+    color: #243a76;
+    margin-right: 5px;
+    border-radius: 3px;
+}
+.current-page{
+    background: #243a76;
+    color: white;
+    border-radius: 3px;
+}
+.page-item:hover{
+                
+    background: #243a76;
+    color: white;
+            
+}
+
+.loc-sp{
+    text-align: right;
+    margin-bottom: 15px;
+
+}
+
+#sort-box{
+    height: 28px;
+    width: 130px;
+}
+            

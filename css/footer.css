@@ -1,0 +1,88 @@
+
+body {
+    color: #333e48;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    overflow-x: hidden;
+    overflow-y: auto;
+   
+}
+p {
+    font-family: 'Roboto', sans-serif;
+}
+.container-2022{
+    width: 1140px;
+    max-width: 100%;
+    padding: 0 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.khaipv-footer-links {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: space-between; 
+    flex-wrap: wrap;
+    
+}
+
+.links-group-title {
+    font-size: 16px;
+    font-weight: 700;
+    
+}
+.links-group-title:after {
+    display: block;
+    content: '';
+    height: 2px;
+    width: 100px;
+    background: red;
+    margin-top: 5px;
+}
+.footer-social-icons i {
+    color: #fff;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    font-size: 19px;
+    text-align: center;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+.fab {
+    font-family: "Font Awesome 5 Brands";
+    font-weight: 400;
+    
+}
+.icons.fab.fa-facebook-f {
+    background: #4267b2;
+}
+.icons.fab.fa-youtube {
+    background: red;
+}
+.fab.fa-instagram {
+    background: #f09433;
+    background: -moz-linear-gradient(45deg,#f09433 0,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+    background: -webkit-linear-gradient(45deg,#f09433 0,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+    background: linear-gradient(45deg,#f09433 0,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+}
+.links-group-container a {
+    color: #333e48;
+    font-size: 13px;
+    
+}
+a {
+    transition: .2s;
+    text-decoration: none;  
+}
+a:-webkit-any-link {
+    cursor: pointer;
+    text-decoration: none;
+}
+

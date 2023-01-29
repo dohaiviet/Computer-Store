@@ -1,0 +1,21 @@
+.product-search{
+    margin-bottom: 15px;
+    margin-top: -40px;
+    color: black;
+    
+
+}
+.product-search-form {
+    
+    background-color: #fff;
+    
+}
+.product-search-form p{
+    font-size: 20px;
+}
+
+.product-search-form input{
+    background-color: #fff;
+    border: 1px solid gray;
+}
+
